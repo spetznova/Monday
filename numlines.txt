@@ -1,0 +1,13 @@
+       0 inflammation-01_2014-06-30.csv
+       0 inflammation-02_2014-06-30.csv
+       0 inflammation-03_2014-06-30.csv
+       0 inflammation-04_2014-06-30.csv
+       0 inflammation-05_2014-06-30.csv
+       0 inflammation-06_2014-06-30.csv
+       0 inflammation-07_2014-06-30.csv
+       0 inflammation-08_2014-06-30.csv
+       0 inflammation-09_2014-06-30.csv
+       0 inflammation-10_2014-06-30.csv
+       0 inflammation-11_2014-06-30.csv
+       0 inflammation-12_2014-06-30.csv
+       0 total
